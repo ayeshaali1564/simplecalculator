@@ -19,10 +19,10 @@ if (answer.operator === "Addition") {
         console.log( answer.firstNumber - answer.secondNumber);
    } else if(answer.operator === "Multiplication") {
         console.log( answer.firstNumber * answer.secondNumber);
-   }else if(answer.operator === "Division") {
+   }else if (answer.operator === "Division") {
         console.log( answer.firstNumber / answer.secondNumber);
 
     console.log("please select a valid operator")
     }
        
-
+console.log("THE END");
